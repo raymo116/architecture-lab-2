@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Tue Dec 03 12:45:31 2019
+# Process ID: 14196
+# Current directory: C:/Users/albarian/Desktop/lab_2/lab_2.runs/synth_1
+# Command line: vivado.exe -log decoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source decoder.tcl
+# Log file: C:/Users/albarian/Desktop/lab_2/lab_2.runs/synth_1/decoder.vds
+# Journal file: C:/Users/albarian/Desktop/lab_2/lab_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source decoder.tcl -notrace
